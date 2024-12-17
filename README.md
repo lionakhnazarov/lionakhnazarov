@@ -1,5 +1,15 @@
-## Hi there 👋
+## Hi there 👋 my name is Lev Akhnazarov. 
+Glad you landed up here.
 
+- 🌱 I’m currently learning trust
+- 👯 I’m looking to collaborate on business projects
+- 🤔 I’m looking for help in search for a family reunion
+
+
+- 💬 Ask me about my ...trust issues
+- 📫 How to reach me while im online 🙈
+- 😄 Pronouns: Lion
+- ⚡ Fun fact: oh goshhhhh...
 <!--
 **lionakhnazarov/lionakhnazarov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
