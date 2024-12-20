@@ -1,4 +1,8 @@
 ## Hi there 👋 my name is Lev Akhnazarov. 
+Fullstack Blockchain Engineer 
+based in London, UK.
+
+
 Glad you landed up here.
 
 - 💬 Ask me about my ...trust issues
