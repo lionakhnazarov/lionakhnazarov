@@ -5,9 +5,9 @@ based in London, UK.
 
 Any Questions please refer to me directly
 
-- 💬 Ask me about my ...trust issues
+- 💬 Ask me about my ...career goals
 - 😄 Pronouns: Lion
-- ⚡ Fun fact: oh goshhhhh...
+- ⚡ Fan of music & art.
 <!--
 **lionakhnazarov/lionakhnazarov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
