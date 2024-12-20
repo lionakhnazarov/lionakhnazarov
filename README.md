@@ -3,7 +3,7 @@ Fullstack Blockchain Engineer
 based in London, UK.
 
 
-Glad you landed up here.
+Any Questions please refer to me directly
 
 - 💬 Ask me about my ...trust issues
 - 😄 Pronouns: Lion
