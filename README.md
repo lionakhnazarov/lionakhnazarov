@@ -9,7 +9,7 @@ Any Questions please refer to me directly
 - 😄 Pronouns: Lion
 - ⚡ Fan of music & art.
 
-Git Accounts in links were used with old emails thats why i have several accounts and that's why history of commits ends up not as of origibally 2013
+Multiple accounts were used during career that's why history of commits starts not with the reference of 2013
 <!--
 **lionakhnazarov/lionakhnazarov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
