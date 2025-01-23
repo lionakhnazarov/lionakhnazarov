@@ -1,8 +1,13 @@
-Living each project engineering and delivering lifecycle gave me an expertise on pitfalls driven by product mismanagement or principality on technology - slowly leading to its limitation. Things hidden from engineering duties until product crash or unsustainability requiring heavy rearchitecturing for scaling purposes. Adherence to principles on choosing the wrong approach in engineering may cost years of team work or destroy investors trust and expectations on a product. Cases when product falls out of competitive field of all-consuming tech. Ten years of prioritising ordinary engineering duties over competing on leadership gave me an insight vision on how exploitation of dialectic skills of its leaders with lack of technical expertise and diversifying power between weak members led to business failure
-
-
 My name is Lev Akhnazarov. Pronouns: Lion | 🦁. 
 Im a Software Engineer based in London, UK.
+
+
+Living each project engineering and delivering lifecycle gave me an expertise on pitfalls driven by product mismanagement or principality on technology - slowly leading to its limitation. 
+Things hidden from engineering duties until product crash or unsustainability requiring heavy rearchitecturing for scaling purposes. 
+Adherence to principles on choosing the wrong approach in engineering may cost years of team work or destroy investors trust and expectations on a product. 
+Cases when product falls out of competitive field of all-consuming tech. 
+Dozen years of prioritising ordinary engineering duties over competing 
+on leadership gave me an insight vision on how exploitation of dialectic skills of its leaders with lack of technical expertise and diversifying power between weak members led to business failure
 
 
 Any Questions please refer to me directly
