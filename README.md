@@ -22,7 +22,7 @@ Any Questions please refer to me directly
 
 - ⚡ Fan of music & art.
 
-Multiple accounts were used during career that's why history of commits starts not with the reference of 2011
+Multiple accounts were used during career and an access got lost/stolen/seized - that's why history of commits starts not with the reference of 2011
 <!--
 
 - 🔭 I’m currently working on ...
