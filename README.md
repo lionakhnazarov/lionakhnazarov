@@ -13,7 +13,10 @@ Any Questions please refer to me directly
 
 - ⚡ Fan of music & art.
 
-Multiple accounts were used during career and an access got lost/stolen/seized - that's why history of commits starts not with the reference of 2011
+[![LinkedIn Badge](https://img.shields.io/badge/-levakhnazarov-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/levakhnazarov/)](https://www.linkedin.com/in/levakhnazarov/)
+[![Twitter Badge](https://img.shields.io/badge/-LAkhnazarov47040?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/LAkhnazarov47040)](https://twitter.com/LAkhnazarov47040)
+
+Multiple accounts were used during career and an access got lost/stolen - that's why history of commits starts not with the reference of 2011
 <!--
 
 - 🔭 I’m currently working on ...
