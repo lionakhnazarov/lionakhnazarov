@@ -16,7 +16,7 @@ Any Questions please refer to me directly
 [![LinkedIn Badge](https://img.shields.io/badge/-levakhnazarov-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/levakhnazarov/)](https://www.linkedin.com/in/levakhnazarov/)
 [![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://twitter.com/LAkhnazaro47040)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/levadestroy)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)]()
+[![Gmail Badge](https://img.shields.io/badge/-levakhnazarov@gmail.com?style=flat-square&logo=Gmail&logoColor=white&link=mailto:levakhnazarov@gmail.com)](mailto:levakhnazarov@gmail.com)
 
 Multiple accounts were used during career and an access got lost/stolen - that's why history of commits starts not with the reference of 2011
 <!--
