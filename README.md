@@ -29,10 +29,12 @@ First Of all - i expose advanced practicing of technologies below:
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)
 ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
+![Sublime Text](https://img.shields.io/badge/sublime_text-%23575757.svg?style=for-the-badge&logo=sublime-text&logoColor=important)
+![Xcode](https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white)
 
 
 
-1.	Extensive Blockchain Expertise: With over 7 years of experience in blockchain technology, I’ve spearheaded advanced initiatives such as integrating blockchain into institutional banking platforms, developing DeFi systems, and conducting Solidity smart contract audits.
+  1.	Extensive Blockchain Expertise: With over 7 years of experience in blockchain technology, I’ve spearheaded advanced initiatives such as integrating blockchain into institutional banking platforms, developing DeFi systems, and conducting Solidity smart contract audits.
   2.	Proven Leadership and Mentorship: As a senior engineer, I’ve consistently led teams, mentored junior developers, and cultivated a culture of continuous improvement, enhancing overall team productivity and innovation.
   3.	Full-Stack Proficiency Across Multiple Domains: My experience spans a diverse tech stack, from backend services in Node.js and Go to frontend frameworks like AngularJS and ReactJS, ensuring well-rounded development capabilities.
   4.	Track Record of Scalable Infrastructure Implementation: I’ve successfully implemented Infrastructure as Code (IaC) and microservice architectures, driving scalability and automation in highly complex environments.
