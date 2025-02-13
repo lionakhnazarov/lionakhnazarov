@@ -14,7 +14,7 @@ Any Questions please refer to me directly
 - ⚡ Fan of music & art.
 
 [![LinkedIn Badge](https://img.shields.io/badge/-levakhnazarov-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/levakhnazarov/)](https://www.linkedin.com/in/levakhnazarov/)
-[![Twitter Badge](https://img.shields.io/badge/-LAkhnazaro47040?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/LAkhnazaro47040)](https://twitter.com/LAkhnazaro47040)
+[![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://twitter.com/LAkhnazaro47040)
 
 Multiple accounts were used during career and an access got lost/stolen - that's why history of commits starts not with the reference of 2011
 <!--
