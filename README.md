@@ -1,7 +1,5 @@
 My name is Lev Akhnazarov. 
 Im a Software Engineer based in London, UK.
-Why is it worth to collaborate with me?
-First Of all - i expose advanced practicing of technologies below:
 
   
 ![GitLab CI](https://img.shields.io/badge/gitlab%20ci-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
