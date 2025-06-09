@@ -13,10 +13,6 @@ Im a Software Engineer based in London, UK.
 [![Stack Exchange](https://img.shields.io/badge/StackExchange-%23ffffff.svg?style=for-the-badge&logo=StackExchange)](https://stackexchange.com/users/6009434/leva-akhnazarov)
 [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/4720300/lev-akhnazarov)
 
-  1.	As a senior engineer, I’ve consistently led teams, mentored junior developers, and cultivated a culture of continuous improvement, enhancing overall team productivity and innovation.
-  2.	My experience spans a diverse tech stack, from backend services in Node.js and Go to frontend frameworks like AngularJS and ReactJS, ensuring well-rounded development capabilities.
-  3.	I’ve successfully implemented Infrastructure as Code (IaC) and microservice architectures, driving scalability and automation in highly complex environments.
-  4.	My experience in strategic R&D, security audits, and system re-architecture demonstrates ability to design secure, innovative solutions and future-proof engineering systems.
 Any Questions please refer to me directly
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/levakhnazarov/)
