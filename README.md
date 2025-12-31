@@ -1,7 +1,7 @@
 My name is Lev Akhnazarov. 
 Im a Software Engineer based in London, UK.
 
-Any Questions please refer to me directly
+For any questions please refer to me directly on:
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/levakhnazarov/)
 [![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://twitter.com/LAkhnazaro47040)
